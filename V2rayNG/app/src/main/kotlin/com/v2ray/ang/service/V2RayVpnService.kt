@@ -149,7 +149,7 @@ class V2RayVpnService : VpnService(), ServiceControl {
     @RequiresApi(Build.VERSION_CODES.O)
     private fun createNotificationChannel(): String {
         val channelId = "RAY_NG_M_CH_ID"
-        val channelName = "HiddifyNG Proxy Information"
+        val channelName = "SafeNetNG Proxy Information"
         val chan = NotificationChannel(channelId,channelName, NotificationManager.IMPORTANCE_HIGH)
         chan.lightColor = Color.DKGRAY
         chan.importance = NotificationManager.IMPORTANCE_NONE
