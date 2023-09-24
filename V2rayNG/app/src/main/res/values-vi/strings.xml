@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_widget_name">Kết nối ngay</string>
-    <string name="app_tile_name">HiddifyNG</string>
-    <string name="app_tile_first_use">Vui lòng thêm một cấu hình vào HiddifyNG để sử dụng!</string>
+    <string name="app_tile_name">SafeNetNG</string>
+    <string name="app_tile_first_use">Vui lòng thêm một cấu hình vào SafeNetNG để sử dụng!</string>
     <string name="navigation_drawer_open">Mở Menu ứng dụng</string>
     <string name="navigation_drawer_close">Đóng Menu ứng dụng</string>
     <string name="migration_success">Đã chuyển dữ liệu!</string>
@@ -12,8 +12,8 @@
     <string name="notification_action_stop_v2ray">Ngắt kết nối HiddifyNG</string>
     <string name="toast_permission_denied">Vui lòng cấp quyền cần thiết cho HiddifyNG! Bạn đã từ chối các quyền cần thiết như Camera hay Bộ nhớ?</string>
     <string name="notification_action_more">Nhấn để biết thêm</string>
-    <string name="toast_services_start">Đang bắt đầu HiddifyNG...</string>
-    <string name="toast_services_stop">Đã dừng HiddifyNG!</string>
+    <string name="toast_services_start">Đang bắt đầu SafeNetNG...</string>
+    <string name="toast_services_stop">Đã dừng SafeNetNG!</string>
     <string name="toast_services_success">Đã bắt đầu HiddifyNG!</string>
     <string name="toast_services_failure">Không thể bắt đầu HiddifyNG, kiểm tra lại cấu hình hoặc khởi động lại thiết bị.</string>
 
