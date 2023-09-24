@@ -60,7 +60,7 @@ class OldDownloader:HTTPDownloader {
             conn.connectTimeout = timeout.toInt()
             conn.readTimeout = timeout.toInt()
             conn.setRequestProperty("Connection", "close")
-            conn.setRequestProperty("User-agent", "HiddifyNG/${BuildConfig.VERSION_NAME}")
+            conn.setRequestProperty("User-agent", "SafeNetNG/${BuildConfig.VERSION_NAME}")
             url.userInfo?.let {
                 conn.setRequestProperty(
                     "Authorization",
