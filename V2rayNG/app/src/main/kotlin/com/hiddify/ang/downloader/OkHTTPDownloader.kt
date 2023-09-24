@@ -67,7 +67,7 @@
 //        // Build request
 //        val requestBuilder = okhttp3.Request.Builder()
 //            .url(url)
-//                .header("User-Agent", "HiddifyNG/${BuildConfig.VERSION_NAME}")
+//                .header("User-Agent", "SafeNetNG/${BuildConfig.VERSION_NAME}")
 //
 //                .header("Connection", "close")
 //        url.userInfo?.let {
