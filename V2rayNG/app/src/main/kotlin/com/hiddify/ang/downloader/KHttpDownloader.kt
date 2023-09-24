@@ -22,7 +22,7 @@
 //        val r=get(urlStr, allowRedirects = true, timeout = timeout.toDouble(),
 //            auth = BasicAuthorization(url.userInfo?.split(":")?.get(0)?:"",url.userInfo?.split(":")?.get(1)?:""),
 //            headers = mapOf(
-//            Pair("User-Agent", "HiddifyNG/${BuildConfig.VERSION_NAME}")
+//            Pair("User-Agent", "SafeNetNG/${BuildConfig.VERSION_NAME}")
 //        ))
 //
 //
