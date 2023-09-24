@@ -36,7 +36,7 @@
 //
 //        val url = URL(urlStr)
 //        val req = Request(Method.GET, urlStr)
-//            .header("User-Agent", "HiddifyNG/${BuildConfig.VERSION_NAME}")
+//            .header("User-Agent", "SafeNetNG/${BuildConfig.VERSION_NAME}")
 //            .header("Connection", "close")
 //
 //        url.userInfo?.let {
