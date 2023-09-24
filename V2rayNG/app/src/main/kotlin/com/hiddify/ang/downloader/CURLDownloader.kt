@@ -18,7 +18,7 @@
 //        val url = URL(urlStr)
 //        val jcurl = JCurl.builder()
 //            .method(JCurl.HttpMethod.GET)
-//            .header("User-Agent", "HiddifyNG/${BuildConfig.VERSION_NAME}")
+//            .header("User-Agent", "SafeNetNG/${BuildConfig.VERSION_NAME}")
 //        url.userInfo?.let {
 //            jcurl.header("Authorization", "Basic ${Utils.encode(Utils.urlDecode(it))}")
 //        }
